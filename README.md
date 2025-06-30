@@ -8,6 +8,5 @@ Github Points-
 3. first we make repositories to learn how to present our presentations, projects, file documents, and codes also. Because we can commit changes our repos according to the requirement. 
 <ol>
 <p>this is my first repo  </p>
-  <br>
   <p> this is the second one </p>
 </ol>
